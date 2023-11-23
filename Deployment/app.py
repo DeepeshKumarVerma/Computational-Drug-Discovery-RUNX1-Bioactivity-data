@@ -55,7 +55,7 @@ st.markdown("""
 }
 </style>            
 # Bioactivity Prediction App (RUNX1)
-### This app allows you to predict the bioactivity towards inhibiting the 'RUNX1' transcription factor. 'RUNX1' is a drug target for Acute Myeloid Leukemia.
+### This app allows you to predict the bioactivity towards inhibiting the 'RUNX1' transcription factor. 'RUNX1' is a target protein for Acute Myeloid Leukemia.
 """,
 unsafe_allow_html=True
 )
